@@ -1,0 +1,19 @@
+3
+Phan So
+2
+Tu So
+int
+Mau So
+int
+Sinh Vien
+5
+Ho
+string
+Chu lot
+string
+Ten
+string
+Diem trung binh
+double
+MSSV
+string

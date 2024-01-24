@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp44.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp44.AttributeList">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQACBAAACAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AttributeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp44.MyObject">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQACAAAACAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp44.MappingRule">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAACAAQAAAAAAAAAAAAAAAAIAQAACA=</HashCode>
+      <FileName>MappingRule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp44.MappingEngine">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAgBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MappingEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp44.One2OneMapping">
+    <Position X="3" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>One2OneMapping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp44.ConcatenateStringsMapping">
+    <Position X="5.25" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcatenateStringsMapping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp44.CopyAllMapping">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CopyAllMapping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp44.MappingManager">
+    <Position X="3.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>MappingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

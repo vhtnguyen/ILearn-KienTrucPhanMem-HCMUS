@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp21.SObject">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAhgAAABAAAAAAAAAAEAAAAAAAAAAAAAE=</HashCode>
+      <FileName>SObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp21.SObjectManager" Collapsed="true">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAABAAAAAAAQABAgAAAAAAAAAAAQE=</HashCode>
+      <FileName>SObjectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp21.SFraction">
+    <Position X="8.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAAAAAAAAAAAQAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SFraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp21.SStudent">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp21.CObject">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggAACBAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>CObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp21.CObjectManager">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>CObjectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp21.CPhanSo">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CPhanSo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
